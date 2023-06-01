@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+# Book Recommendation System
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This is part of a college assignment, where the objective was to apply recommendation systems using Content and Collaborative filtering (item-item).
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+If you want to check this project whit the interactive plots, you can go to my [Kaggle](https://kaggle.com/dielemonteirogomes) page.
